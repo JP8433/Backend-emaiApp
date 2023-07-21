@@ -18,7 +18,7 @@ const router = express.Router();
 
 //!below api is foront end api to use to send mail.
 
-const API = "https://splendorous-puppy-1261f6.netlify.app/"
+const API = "https://splendorous-puppy-1261f6.netlify.app"
 
 
 
